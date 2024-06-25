@@ -1,2 +1,2 @@
 # python-assignment-repository
-Authoe: pritiSonawane
+Author: pritiSonawane
